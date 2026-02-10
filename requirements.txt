@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pypdf
+qdrant-client
+langchain
+langchain-community
+langgraph
+requests
+tqdm
+python-multipart
